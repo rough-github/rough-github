@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Itsuki 👋
+
+Hi, I'm Itsuki, a junior frontEnd web developer from Japan.
+- 🌱 I’m currently learning ... Typescript, NextJs, Docker, k8s,...
+
+#### Languages and Tools
+
+- ⚡ JavaScript(React, Express)
+- ⚡CSS
+- ⚡HTML
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rough-github&show_icons=true&count_private=true&theme=monokai" />
@@ -7,7 +16,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rough-github&theme=monokai&langs_count=5" />
 </a>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rough-github&theme=monokai)
+
 <!--
 **rough-github/rough-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
