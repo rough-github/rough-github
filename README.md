@@ -5,7 +5,7 @@ Hi, I'm Itsuki, a junior frontEnd web developer from Japan.
 
 #### Languages and Tools
 
-- ⚡ JavaScript(React, Express)
+- ⚡JavaScript(React, Express)
 - ⚡CSS(Sass)
 - ⚡HTML
 
