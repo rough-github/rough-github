@@ -6,7 +6,7 @@ Hi, I'm Itsuki, a junior frontEnd web developer from Japan.
 #### Languages and Tools
 
 - ⚡ JavaScript(React, Express)
-- ⚡CSS
+- ⚡CSS(Sass)
 - ⚡HTML
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
