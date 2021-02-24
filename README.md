@@ -13,7 +13,7 @@ Hi, I'm Itsuki, a junior frontEnd web developer from Japan.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rough-github&show_icons=true&count_private=true&theme=monokai" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rough-github&theme=monokai&langs_count=5" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rough-github&theme=monokai&langs_count=6" />
 </a>
 
 
