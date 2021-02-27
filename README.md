@@ -1,7 +1,7 @@
 ### Hi there, I'm Itsuki 👋
 
 Hi, I'm Itsuki, a junior frontEnd web developer from Japan.
-- 🌱 I’m currently learning ... Typescript, NextJs, Docker, k8s,...
+- 🌱 I’m currently learning ... TypeScript, NextJs, Docker, k8s,...
 
 #### Languages and Tools
 
