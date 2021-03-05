@@ -9,6 +9,8 @@ Hi, I'm Itsuki, a junior frontEnd web developer from Japan.
 - ⚡CSS(Sass)
 - ⚡HTML
 
+#### My GitHub Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rough-github&show_icons=true&count_private=true&theme=synthwave" />
 </a>
